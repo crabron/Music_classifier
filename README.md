@@ -115,3 +115,7 @@ McFee, Brian, Colin Raffel, Dawen Liang, Daniel PW Ellis, Matt McVicar, Eric Bat
 
 <a id="4">[4]</a> 
 Bisong E. (2019) Google Colaboratory. In: Building Machine Learning and Deep Learning Models on Google Cloud Platform. Apress, Berkeley, CA. https://doi.org/10.1007/978-1-4842-4470-8_7
+
+##Презентация:
+
+https://docs.google.com/presentation/d/1XLVwMDuXrFdom3C0PVwFac_0YjH7mhg_hUu-SEYEX8A/edit?usp=sharing
