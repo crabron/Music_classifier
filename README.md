@@ -120,4 +120,5 @@ Bisong E. (2019) Google Colaboratory. In: Building Machine Learning and Deep Lea
 
 ## Презентация
 
+songs_classifiers.pdf
 https://docs.google.com/presentation/d/1XLVwMDuXrFdom3C0PVwFac_0YjH7mhg_hUu-SEYEX8A/edit?usp=sharing
