@@ -1,7 +1,5 @@
 # Music_classifier
 
-# Songs classifiers
-
 **Оглавление**
 
 [TOCM]
